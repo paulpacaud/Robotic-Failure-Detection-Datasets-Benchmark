@@ -10,4 +10,4 @@ Awesome list of Robotic Failure Detection Datasets. They can serve as training d
 | RLBench-Fail | Simulator robot arm (Franka Emika Panda) | Images | 21K samples | :white_check_mark: 2026 | execution and planning failures | [🤗 HuggingFace](https://huggingface.co/collections/paulpacaud/rlbench-fail-robot-failure-detection-benchmark) |
 | I-Fail-Sense DROID Bench | Real robot arm | Images | 1K | :white_check_mark: 2025 | does not contain failures. only execution success examples | [🤗 HuggingFace](https://huggingface.co/datasets/ACIDE/DROID_bench_1K) |
 | RoboFail | Real robot arm (UR5) | Images, Video | 183 samples | :white_check_mark: 2023 | execution and planning failures | [Personal website](https://www.cs.columbia.edu/~liuzeyi/reflect_data/) |
-| AHA | Simulator robot arm (Franka Emika Panda) | Images | 21K samples | :x: | execution failures | None |
+| AHA | Simulator robot arm (Franka Emika Panda) | Images | 21K samples | :x: the company policy forbids the release | execution failures | [Github codebase](https://github.com/NVlabs/AHA) |
